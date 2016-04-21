@@ -1,11 +1,8 @@
 package hw2;
 
-// In the name of God
-/*
-Kimia Hemmati Rad	9412430275
-Rozhan Omidvar		9422430023
-4.6 Random points on a circle and make a triangle
-*/
+/**
+ * Created by Kimia Hemmati Rad, Rozhan Omidvar.
+ */
 public class P4_6 {
 	static double radius = (double) (40);
 

@@ -1,9 +1,8 @@
 package hw2;
 
-//	Nima Vahidi Ferdowsi	9411355
-//	Saeed Rastgar			9412430559
-//	Masih Abolfazli			9412430548
-
+/**
+ * Created by Nima Vahidi Ferdowsi, Saeed Rastgar, Masih Abolfazli.
+ */
 public class P4_3 {
 	public static void main(String[] args) {
 		final double AtlantaX = 33.7489954, AtlantaY = -84.3879824;
